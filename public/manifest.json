@@ -1,0 +1,21 @@
+{
+  "name": "IanTri",
+  "short_name": "IanTri",
+  "description": "속도, 페이스, 거리 계산 및 경기 기록 관리",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
