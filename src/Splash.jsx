@@ -15,8 +15,8 @@ export default function Splash() {
         src="/icon.png"
         alt="철인계산기"
         style={{
-          width: "40vw",
-          maxWidth: "180px",
+          width: "55vw",
+          maxWidth: "260px",
           height: "auto"
         }}
       />
