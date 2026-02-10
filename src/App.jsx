@@ -1076,7 +1076,7 @@ export default function TriathlonCalculator() {
           onClick={() => setShowLogoPopup(false)}
         >
           <img
-            src="/icon-1024-blue.png"
+            src="/running_logo.gif"
             alt="철인계산기"
             className="w-[70vw] max-w-sm h-auto rounded-2xl transition-all duration-300 ease-out animate-[fadeScaleIn_0.3s_ease-out]"
             style={{
