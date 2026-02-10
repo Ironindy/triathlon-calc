@@ -467,7 +467,7 @@ export default function TriathlonCalculator() {
           <img 
             src="triathlon-logo.png" 
             alt="Triathlon" 
-            className="w-12 h-12 object-contain rounded-full"
+            className="w-14 h-14 object-contain rounded-full"
           />
           <h1 className="text-2xl font-bold text-gray-900">Ian's 철인계산기</h1>
         </div>
