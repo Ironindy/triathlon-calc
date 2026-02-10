@@ -12,7 +12,7 @@ export default function Splash() {
       }}
     >
       <img
-        src="/icon2.png"
+        src="/icon.png"
         alt="철인계산기"
         style={{
           width: "40vw",
